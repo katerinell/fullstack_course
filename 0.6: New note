@@ -1,0 +1,2 @@
+Browser->Server: HTTP Post: https://fullstack-exampleapp.herokuapp.com/new_note_spa
+Server->Browser: 201 created
